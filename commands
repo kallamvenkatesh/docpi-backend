@@ -8,3 +8,7 @@ git push -u origin main
 git remote add origin https://github.com/kallamvenkatesh/docpi-backend.git
 git branch -M main
 git push -u origin main
+
+
+
+git remote set-url origin git://new.url.here
